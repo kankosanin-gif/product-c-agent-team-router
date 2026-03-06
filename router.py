@@ -39,3 +39,8 @@ def route(signal: TaskSignal):
 if __name__ == "__main__":
     # demo
     print(route(TaskSignal()))
+
+
+if __name__ == '__main__':
+    sample = route(True, 2, True)
+    print(sample)
