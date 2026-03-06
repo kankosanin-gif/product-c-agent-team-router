@@ -18,3 +18,6 @@ Router output must include:
 - reason codes
 - risk level
 - next owner
+
+## Governance templates
+- Gate Decision Log: \n- Escalation SLA: \n- Proof-of-Work template: \n
