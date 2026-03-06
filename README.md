@@ -21,3 +21,6 @@ Router output must include:
 
 ## Governance templates
 - Gate Decision Log: \n- Escalation SLA: \n- Proof-of-Work template: \n
+## Operational records
+- Work-item log: `records/work-item-log.md`
+- Weekly review: `reviews/WEEKLY_REVIEW.md`
